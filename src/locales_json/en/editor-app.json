@@ -34,6 +34,10 @@
     "title": "Premium Template",
     "view": "View In Store"
   },
+  "json-error": {
+    "message": "The content of your Presentation could not be parsed. Please check the syntax in HTML mode.",
+    "title": "Invalid presentation data"
+  },
   "landing": {
     "manageEditorText": "Create and manage HTML content for your digital signage displays, anywhere, anytime."
   },

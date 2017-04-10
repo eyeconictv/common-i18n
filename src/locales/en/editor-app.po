@@ -5,7 +5,7 @@ msgid "addWidget.settingsUrl"
 msgstr "Settings URL"
 
 msgid "addWidget.title"
-msgstr "Add Widget by URL"
+msgstr "Add a Custom Rise Widget"
 
 msgid "addWidget.url"
 msgstr "URL"

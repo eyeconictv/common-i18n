@@ -4,7 +4,7 @@
   },
   "addWidget": {
     "settingsUrl": "Settings URL",
-    "title": "Add Widget by URL",
+    "title": "Add a Custom Rise Widget",
     "url": "URL"
   },
   "autoSchedule": {

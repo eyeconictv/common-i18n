@@ -244,11 +244,23 @@ msgstr "Are you sure you want to delete this Display?"
 msgid "details.error"
 msgstr "Failed to update display!"
 
+msgid "details.startPlayerProTrial"
+msgstr "Start Rise Player Professional Trial"
+
+msgid "details.subscribePlayerPro"
+msgstr "Subscribe to Rise Player Professional"
+
+msgid "details.title"
+msgstr "Display Settings"
+
 msgid "details.unsavedTitle"
 msgstr "Unsaved Changes"
 
 msgid "details.unsavedWarning"
 msgstr "You have unsaved changes. Do you want to Save or Discard them?"
+
+msgid "details.whatIsPlayerPro"
+msgstr "What is Rise Player Professional?"
 
 msgid "displayDetails"
 msgstr "Display Details"
@@ -448,6 +460,18 @@ msgstr "Serial Number"
 msgid "fields.player.status"
 msgstr "Status"
 
+msgid "fields.player.version.howGetHelp"
+msgstr "How do I get help?"
+
+msgid "fields.player.version.thirdParty"
+msgstr "(3rd Party Player)"
+
+msgid "fields.player.version.unsupported"
+msgstr "Unsupported"
+
+msgid "fields.player.version.upgrade"
+msgstr "Upgrade"
+
 msgid "fields.player.viewerVersion"
 msgstr "Viewer Version"
 
@@ -564,6 +588,18 @@ msgstr "Online"
 
 msgid "list.viewAll"
 msgstr "View All Displays"
+
+msgid "playerProTrial.description"
+msgstr "Rise Player Professional is a self-contained application that elimates having to be connected to the internet in order to start and show your content."
+
+msgid "playerProTrial.description2"
+msgstr "30 days FREE trial for all Displays in your Company. No credit card required."
+
+msgid "playerProTrial.price"
+msgstr "$9 USD/CAD Per Display Per Month"
+
+msgid "playerProTrial.title"
+msgstr "Rise Player Professional"
 
 msgid "title"
 msgstr "Displays"

@@ -259,11 +259,31 @@
       "address": "Address",
       "lastConnection": "Last Connection",
       "name": "Name",
+      "playerType": "Player Type",
       "schedule": "Schedule",
       "status": "Status"
     },
     "no-results": "Your search didn't return any results",
     "noDisplays": "No Displays",
+    "player": {
+      "cta": {
+        "checkStore": "Check Store Account",
+        "getSupport": "Get Support",
+        "subscribeNow": "Subscribe Now",
+        "subscribePro": "Subscribe To Professional",
+        "tryPro": "Try Professional",
+        "upgrade": "Upgrade"
+      },
+      "type": {
+        "3rdParty": "3rd Party Player",
+        "cancelled": "Professional (Cancelled)",
+        "professional": "Professional",
+        "professionalSuspended": "Professional (Suspended)",
+        "professionalTrial": "Professional (Trial)",
+        "standard": "Standard",
+        "unsupported": "Unsupported"
+      }
+    },
     "schedule": {
       "add": "Add to Schedule"
     },
@@ -272,7 +292,8 @@
       "error": "Error",
       "install": "Install Player",
       "offline": "Offline",
-      "online": "Online"
+      "online": "Online",
+      "whyOffline": "Why is my Display offline?"
     },
     "viewAll": "View All Displays"
   },

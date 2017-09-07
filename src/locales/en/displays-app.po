@@ -463,11 +463,11 @@ msgstr "Status"
 msgid "fields.player.version.howGetHelp"
 msgstr "How do I get help?"
 
-msgid "fields.player.version.thirdParty"
-msgstr "(3rd Party Player)"
-
 msgid "fields.player.version.notCurrent"
 msgstr "Player Version Not Current"
+
+msgid "fields.player.version.thirdParty"
+msgstr "(3rd Party Player)"
 
 msgid "fields.player.version.unsupported"
 msgstr "Unsupported"

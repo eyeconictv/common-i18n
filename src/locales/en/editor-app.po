@@ -58,6 +58,12 @@ msgstr "Saved"
 msgid "details.unsavedTitle"
 msgstr "Unsaved Changes"
 
+msgid "storeProduct.title"
+msgstr "Store Products"
+
+msgid "playlistItem.widgetByUrl"
+msgstr "Add Custom Widget"
+
 msgid "details.unsavedWarning"
 msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 

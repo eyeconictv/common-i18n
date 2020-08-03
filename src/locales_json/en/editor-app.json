@@ -97,7 +97,8 @@
     "seconds": "seconds",
     "seconds-short": "s",
     "select": "Select",
-    "title": "Edit Playlist Item"
+    "title": "Edit Playlist Item",
+    "widgetByUrl": "Add Custom Widget"
   },
   "properties": {
     "labels": {
@@ -171,7 +172,8 @@
       "start": "Start with this Template",
       "suggest": "Suggest a Template!",
       "title": "Add a New Presentation"
-    }
+    },
+    "title": "Store Products"
   },
   "subscription": {
     "buy": "Buy",

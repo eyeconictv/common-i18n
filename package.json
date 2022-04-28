@@ -4,9 +4,9 @@
   "description": "Common i18n files to be shared across Rise Vision apps, widgets and components.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Rise-Vision/common-i18n.git"
+    "url": "git://github.com/porcupine-plan/common-i18n.git"
   },
-  "homepage": "https://github.com/Rise-Vision/common-i18n",
+  "homepage": "https://github.com/porcupine-plan/common-i18n",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
